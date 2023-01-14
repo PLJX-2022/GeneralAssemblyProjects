@@ -55,15 +55,15 @@ Distribution of monthly mean wind speed across the 6 weather stations are more v
 While Marina Barrage and Newton both have the same mean wind speed at 7.3 km/hr, Newton has the higher median wind speed at 6.9km/hr vs 6.1km/hr at Marina Barrage.
 
 #### <u>By Months</u>
-<img src="./picture/Rainfall_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
+<img src="./picture/rainfall_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
 
 Rainfall is low in Jan and lowest in Feb. It rises til May, dips til Aug and then rises again with the highest in Dec.
 
-<img src="./picture/Temp_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
+<img src="./picture/temp_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
 
 Average temperature is the lowest in Jan and Feb. It then hovers above 28 °c from Mar to Oct, before cooling again in Nov and Dec
 
-<img src="./picture/Windsp_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
+<img src="./picture/windsp_bymth.jpg" style="float: center; margin: 20px; height: 200px, width: 200px">
 
 Wind speed is varied within each month with more outliers than other weather features. Wind speed is generally highest in Jan and Feb. It then dips til Apr, rises til Aug, and dips again til Nov.
 
